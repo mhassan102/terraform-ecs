@@ -1,0 +1,15 @@
+[
+  {
+    "name": "python_app",
+    "image": "258279436410.dkr.ecr.eu-central-1.amazonaws.com/python_app",
+    "cpu": 128,
+    "memoryReservation": 300,
+    "essential": true,
+    "portMappings": [
+      {
+        "containerPort": 8080,
+        "hostPort": 8080
+      }
+    ]
+  }
+]

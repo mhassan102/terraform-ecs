@@ -1,0 +1,5 @@
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Jobs:
+# m h  dom mon dow   command
+  * *  *   *   *     /home/testing/cronrun.sh

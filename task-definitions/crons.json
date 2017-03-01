@@ -1,0 +1,9 @@
+[
+  {
+    "name": "crons",
+    "image": "258279436410.dkr.ecr.eu-central-1.amazonaws.com/crons",
+    "cpu": 128,
+    "memoryReservation": 300,
+    "essential": true
+  }
+]
